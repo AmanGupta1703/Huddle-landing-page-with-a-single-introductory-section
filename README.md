@@ -124,4 +124,4 @@ body {
 ## Author
 
 - Website - [Huddle Landing Page]((https://amangupta1703.github.io/Huddle-landing-page-with-a-single-introductory-section/))
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
